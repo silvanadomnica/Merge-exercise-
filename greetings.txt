@@ -1,6 +1,6 @@
-hello
-buna
-hallo
-marhaba 
-hola
-bonjour 
+hello!
+buna!
+hallo!
+marhaba!
+hola!
+bonjour! 

@@ -4,3 +4,6 @@ hallo
 marhaba 
 hola
 bonjour 
+guten tag
+namaste
+
